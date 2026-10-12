@@ -45,3 +45,23 @@ This project demonstrates how AI and workflow automation can reduce repetitive a
 ## Disclaimer
 
 This is a portfolio project demonstrating AI and workflow automation. Actual scheduling, calendar availability checks, and confirmed calendar bookings should only be claimed if implemented and tested.
+## Project Demo
+
+🎥 [Watch the AI Appointment Booking Assistant Demo](https://lnkd.in/p/e-m9rzJe)
+
+## Project Screenshots
+
+### Workflow Overview
+![n8n Workflow](workflow.png)
+
+### Appointment Request Form
+![Appointment Form](appointment-form.png)
+
+### Appointment Responses
+![Appointment Responses](appointment-responses.png)
+
+### AI-Generated Appointment Summary
+![AI Appointment Summary](ai-appointment-summary.png)
+
+### Customer Confirmation Email
+![Customer Confirmation](appointment-confirmation-email.png)
